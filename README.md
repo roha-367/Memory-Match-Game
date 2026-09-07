@@ -3,7 +3,8 @@
 A simple and fun Memory Match Game built using **HTML, CSS, and JavaScript**.
 
 ## 🎮 Features
-
+                                                                              <img src="pic.png" alt="Memory Game Preview" width="250">
+                                                                              
 * 8 matching pairs
 * Score tracking
 * Moves counter
@@ -27,4 +28,4 @@ A simple and fun Memory Match Game built using **HTML, CSS, and JavaScript**.
 ## 👩‍💻 Project
 
 This project was created as a beginner web development project to practice HTML, CSS, and JavaScript.
-![Memory Game](pic.png)
+
