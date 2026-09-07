@@ -43,7 +43,7 @@ function checkMatch() {
 
         resetBoard();
     } else {
-        // Twist: Match galat hone par turn kam karna
+      
         turnsLeft--;
         document.getElementById('turns').innerText = turnsLeft;
 
@@ -56,8 +56,8 @@ function checkMatch() {
 
             // Game Over Check
             if (turnsLeft === 0) {
-                alert("Game Over! Aap ke 5 turns khatam ho gaye. ❌");
-                lockBoard = true; // Board ko permanently lock karna
+                alert("Game Over! . ❌");
+                lockBoard = true; // permanently lock board
             }
         }, 1000);
     }
