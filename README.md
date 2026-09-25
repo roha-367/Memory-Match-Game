@@ -25,6 +25,8 @@ A simple and fun Memory Match Game built using **HTML, CSS, and JavaScript**.
 3. Match all 8 pairs.
 4. Try to complete the game in as few moves as possible!
 
+   [Check Live Demo](https://roha-367.github.io/Memory-Match-Game/)
+
 ## 👩‍💻 Project
 
 This project was created as a beginner web development project to practice HTML, CSS, and JavaScript.
